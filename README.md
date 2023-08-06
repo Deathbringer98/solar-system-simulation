@@ -44,7 +44,8 @@ Copy code
 <canvas id="solarSystemCanvas" width="800" height="600"></canvas>
 Contributing
 If you find any issues with the simulation or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
-
+# Video
+https://www.youtube.com/watch?v=4g2YNEo_Dkg
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
