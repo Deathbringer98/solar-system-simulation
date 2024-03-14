@@ -8,13 +8,9 @@ Realistic 2D representation of the solar system.
 Planets rotate around the sun at their respective speeds and distances.
 Customize each planet's size, color, distance from the sun, and rotational speed.
 How to Use
-Clone the repository or download the project files to your local machine.
-bash
-Copy code
-git clone https://github.com/your-username/solar-system-simulation.git
-Open the index.html file in your web browser.
+Download the zip and extract it to the desktop or folder of your choice.
 
-Observe the planets rotating around the sun in the canvas.
+Observe the planets rotating around the sun on the canvas.
 
 Customize the Solar System
 You can customize the solar system by modifying the solarSystem.js file.
