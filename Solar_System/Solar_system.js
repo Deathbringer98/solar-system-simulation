@@ -18,8 +18,6 @@ const planets = [
   { name: 'Venus', radius: 7, color: 'orange', distance: 150, angle: 0, speed: 0.015 },
   { name: 'Earth', radius: 7, color: 'blue', distance: 200, angle: 0, speed: 0.01 },
   { name: 'Mars', radius: 7, color: 'red', distance: 250, angle: 0, speed: 0.012},
-  // Add other planets with their properties
-  // ...
 ];
 
 function drawSolarSystem() {
