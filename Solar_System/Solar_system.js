@@ -1,4 +1,4 @@
-// Written by MR.PY
+// Written by Matt
 
 const canvas = document.getElementById('solarSystemCanvas');
 const ctx = canvas.getContext('2d');
